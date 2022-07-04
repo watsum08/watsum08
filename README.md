@@ -4,7 +4,7 @@ I'm a 22 year old full stack developer from Switzerland.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=watsum08&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=watsum08.watsum08)
+<img src="https://profile-counter.glitch.me/{watsum08}/count.svg" alt="watsum08 :: Visitor's Count" />
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="128">
 <!--
