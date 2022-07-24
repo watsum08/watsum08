@@ -4,9 +4,7 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="256">
 
-<!--RECENT_ACTIVITY:start-->
-
-<!--RECENT_ACTIVITY:last_update-->
+<!--GITHUB_ACTIVITY:{"rows": 5}-->
 
 ### Which operating systems do I use ?
 
