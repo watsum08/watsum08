@@ -2,7 +2,7 @@
 
 ### I'm a 22 years old web developer from Switzerland 🇨🇭
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100%">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="256px">
 
 <!--GITHUB_ACTIVITY:{"rows": 5}-->
 
