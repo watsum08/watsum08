@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=2BC00F&lines=Hey!;Welcome+to+my+GitHub+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=2BC00F&width=600&lines=Hey!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 ### I'm a 22 years old web developer from Switzerland 🇨🇭
 
