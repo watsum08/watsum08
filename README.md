@@ -1,6 +1,6 @@
 ## Hey!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+a+22+years+old+web+developer+from+Switzerland;color=39FF14)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=2BC00F&lines=I'm+a+22+years+old+web+developer+from+Switzerland)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="256">
 
